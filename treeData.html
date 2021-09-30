@@ -12,18 +12,23 @@ var table = new Tabulator('#example-table', {{
         {{
             title: 'Interactions',
             field: 'Source',
-            width: '50%'
+            width: '40%'
         }}, 
         {{
             title: 'Relationship',
             field: 'relationship',
-            width: '25%'
+            width: '20%'
+        }},
+        {{
+            title: 'Risk',
+            field: 'risk',
+            width: '20%'
         }},
         {{
             title: 'Weight',
             field: 'weight',
             align: 'center',
-            width: '25%', 
+            width: '20%', 
             formatter:"traffic", 
             formatterParams:
             {{
