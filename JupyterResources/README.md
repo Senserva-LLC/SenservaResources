@@ -6,3 +6,7 @@ This is a repository for Senserva authored Jupyter Notebook templates. These tem
 # How to Use
 
 The *.ipynb files can be downloaded and copied into your Jupyter Notebook environment. 
+
+# More Info
+
+We recommend using the Azure Machine Learning and Sentinel Notebooks environments. More information about Sentinel Notebooks [can be found here](https://docs.microsoft.com/azure/sentinel/notebooks). Development resources for Sentinel Notebooks [can be found on the Azure Sentinel Github page](https://github.com/Azure/Azure-Sentinel-Notebooks)
